@@ -1,3 +1,5 @@
+#(1)ฟังก์ชั่น Print
+
 #string => ข้อความ ตัวอักษร
 #number => integer ,float
 #boolean => true , false
