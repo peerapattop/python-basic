@@ -1,7 +1,7 @@
 #(1)ฟังก์ชั่น Print
 
 #string => ข้อความ ตัวอักษร
-#number => integer ,float
+#number => integer , float
 #boolean => true , false
 
 print("Hello") 
